@@ -1,6 +1,6 @@
 # Retail-Sales-Revenue-Analytics-
 Retail Sales &amp; Revenue Analytics 
-# 🛍️ Retail Sales & Revenue Analytics — Excel Workbook
+# 🛍️ Retail Sales & Revenue Analytics — (SQL, Python, DAX, Power Query (M))
 
 A fully formula-driven Excel dashboard analyzing retail sales performance across stores, regions, and categories. Part of a 3-tool retail analytics portfolio project (SQL + Python + Excel).
 
